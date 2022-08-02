@@ -1,5 +1,8 @@
 {
   "files.associations": {
     "pascalTriangle.C": "cpp",
+    "HelloWorld3.C": "cpp",
+    "HelloWorld2.C": "cpp",
+    "HelloWorld.C": "cpp"
   }
 }
